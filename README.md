@@ -91,5 +91,5 @@ USER <username>>	系统登录的用户名
 开发平台：windows 7   
 开发工具：QtCreator  
 
-具体的实现请参照源码进行探索。  
+具体的实现请参照源码进行探索(作者博客地址:[狂码一生 http://www.sindsun.com](http://www.sindsun.com))。  
 
